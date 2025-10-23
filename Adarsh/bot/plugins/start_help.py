@@ -89,7 +89,7 @@ I even support channels for effortless sharing. 📡
     reply_markup=InlineKeyboardMarkup(
         [
             [InlineKeyboardButton("☁️ Support", url="https://t.me/hivabytessupport"),
-             InlineKeyboardButton("⚡️ Updates", url="https://t.me/shivamnox0")],
+             InlineKeyboardButton("⚡️ Updates", url="https://t.me/hivabyte")],
             [InlineKeyboardButton("❓ Help", callback_data="help"),
              InlineKeyboardButton("ℹ️ About", callback_data="about")],
             [InlineKeyboardButton("🧑‍💻 Developer", url="https://t.me/shivamnox")]
@@ -156,7 +156,7 @@ I even support channels for effortless sharing. 📡
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("☁️ Support", url="https://t.me/hivabytessupport"),
-                 InlineKeyboardButton("⚡️ Updates", url="https://t.me/shivamnox0")],
+                 InlineKeyboardButton("⚡️ Updates", url="https://t.me/hivabyte")],
                 [InlineKeyboardButton("❓ Help", callback_data="help"),
                  InlineKeyboardButton("ℹ️ About", callback_data="about")],
                 [InlineKeyboardButton("🧑‍💻 Developer", url="https://t.me/shivamnox")]
